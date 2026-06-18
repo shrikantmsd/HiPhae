@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "HiPhae",
+    "slug": "hiphae",
+    "scheme": "hiphae",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.hiphae.app"
+    },
+    "android": {
+      "package": "com.hiphae.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "extra": {
+      "brand": "Hyper-Integrated Protection & Health Alliance Ecosystem"
+    }
+  }
+}
